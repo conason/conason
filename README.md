@@ -1,6 +1,13 @@
- <center>
+<div style="page-break-after: always;"></div>
+
+<center>
      <h1>conason</h1>
      <div>
+         <span>
+             <img src="assets/phone-solid.svg" width="18px">
+             13168139102
+         </span>
+         ·
          <span>
              <img src="assets/envelope-solid.svg" width="18px">
              prc19492019@outlook.com
@@ -8,7 +15,12 @@
          ·
          <span>
              <img src="assets/github-brands.svg" width="18px">
-             <a href="https://github.com/conason">Github</a>
+             <a href="https://github.com/conason">conason</a>
+         </span>
+         ·
+         <span>
+             <img src="assets/rss-solid.svg" width="18px">
+             <a href="https://conason.github.io/">Blog</a>
          </span>
      </div>
  </center>
@@ -16,22 +28,29 @@
 
 ## 个人信息 
 
-- 男，汉族，2000 年出生
-- 期望职位：Java后端开发
-- 期望城市：广州/深圳/杭州
+<div id="content" style="float:right;">
+    <img src="assets/avatar.png" height="125">
+</div>
 
-##  教育经历
 
-- 学士，华南农业大学，信息工程系，工业工程专业，2019.9~2023.7
-- 通过了 CET4 英语等级考试
+* **年龄**：22
+* **民族**：汉族
+* **期望职位**：Java后端开发
+* **期望城市**：广州/深圳/杭州
 
+
+
+## 教育经历
+
+- 学士，华南农业大学，工业工程专业，2019.9~2023.7
+- 通过了 **CET4** 英语等级考试
 
 ## 技能清单
 
 - **计算机基础** ：熟练掌握计算机网络、数据结构和算法、操作系统，了解计算机组成原理
 - **Linux** : 熟练使用 Linux，有 Linux 下项目部署的实际经验
 - **Java**：熟练掌握 Java 基础知识、Java 并发、了解JVM
-- **数据库**：熟练掌握 MySQL 数据库以及常见优化手段（比如索引、SQL 优化、读写分离&分库分表），Redis 使用经验丰富 
+- **数据库**：熟练掌握 MySQL 数据库，Redis 使用经验丰富 
 - **框架**：熟练掌握 Spring、Spring MVC、 SpringBoot、MyBatis、MyBatisPuls 等主流开发框架
 - **工具**：熟练掌握 Git、Maven、Swagger、Postman
 - **前端**：熟悉 TypeScript 、Element-ui，有 Vue 的实际开发经验
@@ -41,7 +60,7 @@
 **金蝶精一（2022 年 7 月 ~ 2022 年 9 月 ）**
 
 - **职位**：数字化实施实习生
-- **实习内容**：系统学习金蝶云使用规范，深入学习供应链管理模块，进一步理解供应链管理实现，并为客户个性化需求提出解决方案
+- **实习内容**：系统学习金蝶云使用规范，深入学习供应链管理模块，进一步理解供应链管理实现，并为客户个性化需求提出解决方案。
 
 ## 项目经历 
 
@@ -52,7 +71,7 @@
 
 ### 仿美团外卖系统
 
-- **项目描述** : 外卖系统(B/S)模式，分为后台管理、物品展示、购物车和管理员管理等模块，前端（Element-UI，Vue），后端（Spring Boot，MyBatisPuls）
+- **项目描述** : 外卖系统(B/S)模式，分为后台管理、物品展示、购物车和管理员管理等模块，前端（Element-UI，Vue），后端（Spring Boot，SpringMVC，MyBatisPuls）
 - **责任描述** : 负责后端开发，项目使用Redis进行缓存，实现MySQL主从复制和读写分离，Nginx管理前端资源并反向代理Tomca服务器同时实现负载均衡。
 
 ## 校园经历
