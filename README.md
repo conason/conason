@@ -28,11 +28,6 @@
 
 ## 个人信息 
 
-<div id="content" style="float:right;">
-    <img src="assets/avatar.png" height="125">
-</div>
-
-
 * **年龄**：22
 * **民族**：汉族
 * **期望职位**：Java后端开发
