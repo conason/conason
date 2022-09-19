@@ -4,11 +4,6 @@
      <h1>conason</h1>
      <div>
          <span>
-             <img src="assets/phone-solid.svg" width="18px">
-             13168139102
-         </span>
-         ·
-         <span>
              <img src="assets/envelope-solid.svg" width="18px">
              prc19492019@outlook.com
          </span>
@@ -24,6 +19,7 @@
          </span>
      </div>
  </center>
+
 
 
 ## 个人信息 
