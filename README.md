@@ -3,7 +3,7 @@
      <div>
          <span>
              <img src="assets/envelope-solid.svg" width="18px">
-             conason@163.com
+             prc19492019@outlook.com
          </span>
          ·
          <span>
@@ -17,6 +17,7 @@
          </span>
      </div>
  </center>
+
 
 ## <img src="D:/project/Markdown-Resume/assets/top_gerenxinxi.svg" width="30px">个人信息 
 
