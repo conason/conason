@@ -1,11 +1,9 @@
-<div style="page-break-after: always;"></div>
-
 <center>
      <h1>conason</h1>
      <div>
          <span>
              <img src="assets/envelope-solid.svg" width="18px">
-             prc19492019@outlook.com
+             conason@163.com
          </span>
          ·
          <span>
@@ -15,80 +13,75 @@
          ·
          <span>
              <img src="assets/rss-solid.svg" width="18px">
-             <a href="https://blog.conason.top/">Blog</a>
+             <a href="https://blog.conason.top/">blog.conason.top</a>
          </span>
      </div>
  </center>
 
-## 个人信息 
+## <img src="D:/project/Markdown-Resume/assets/top_gerenxinxi.svg" width="30px">个人信息 
 
+**年龄**：22	              	    **民族**：汉族
 
-* **年龄**：22
-* **民族**：汉族
-* **期望职位**：Java后端开发
-* **期望城市**：广州/深圳/杭州
+**期望职位**：后端开发	**期望城市**：广州/深圳/杭州
 
-## 教育经历
+## <img src="D:/project/Markdown-Resume/assets/graduation-cap-solid.svg" width="30px"> 教育经历
 
-- 学士，华南农业大学，工业工程专业，2019.9~2023.7
-- 通过了 **CET4** 英语等级考试
+- 学士，华南农业大学，信息工程系工业工程专业，2019.9~2023.6
+- 通过了 CET4 英语等级考试
 
-## 技能清单
+## <img src="D:/project/Markdown-Resume/assets/briefcase-solid.svg" width="30px"> 实习经历
 
-- **计算机基础** ：熟练掌握计算机网络、数据结构和算法、操作系统，了解计算机组成原理
-- **Linux** : 熟练使用 Linux，有 Linux 下项目部署的实际经验
+- **金蝶精一信息科技服务有限公司，数字化实施实习生**  **2022.7~2022.9**
+
+  系统学习金蝶云使用规范，深入学习供应链管理模块及实现；学习使用金蝶云苍穹系统进行EPR软件开发。
+
+## <img src="D:/project/Markdown-Resume/assets/project-diagram-solid.svg" width="30px"> 项目经历
+
+* **第五届字节青训营大项目 抖声**    **2023.1~至今**
+
+  **使用技术：**Gin、GORM、Kafka、Redis、ElasticSearch、MySQL
+
+  **项目简述：**极简版抖音后端开发。负责社交互动模块开发，用 ES 对敏感字段脱敏以及评论展示，用 Kafka 优化互动功能以提高系统吞吐能力，用 Redis 缓存以及生成消息列表和视频队列，大幅缓解 MySQL 服务压力，极大提高了服务吞吐量以及效率。
+
+* **校园帮帮**                                    **2021.12~2022.2**
+
+  **使用技术**：Spring Cloud、Nacos、Redis、RabbitMQ、MySQL、Docker
+
+  **项目简述**：类似于校园论坛的项目，负责外卖模块。基于人人开源生成基本CRUD代码；为避免高峰期的流量导致 MySQL 崩溃，MySQL 使用主从复制模式分离读写，优化了部分SQL；使用了 Redis 实现在项目启动时进行缓存预热、购物车以及超值套餐限购功能；使用 sentinel 对重要功能进行了QPS限制，防止重要服务宕机造成损失。
+
+- **物流网络规划**                            **2022.7~2022.8**
+
+  **使用技术：**ILOG、混合整数规划
+
+  **项目简述：**全国工业工程课程设计题2，为SD公司设计跨区运输策略。负责建立物流网络模型并使用 ILOG 建立混合整数规划运输模型；解析海量的销售、物流成本以及区域数据，设计运营约束，最终可视化输出最优运输模型。
+
+  **项目成果：2022年9月，在“全国工业工程类专业优秀课程设计”中荣获“良好（二等奖）”**。
+
+## <img src="D:/project/Markdown-Resume/assets/tools-solid.svg" width="30px"> 技能清单
+
 - **Java**：熟练掌握 Java 基础知识、Java 并发、了解JVM
-- **数据库**：熟练掌握 MySQL 数据库，Redis 使用经验丰富 
-- **框架**：熟练掌握 Spring、Spring MVC、 SpringBoot、MyBatis、MyBatis-Puls 等主流开发框架
-- **工具**：熟练掌握 Git、Maven、Postman
-- **前端**：熟悉 TypeScript 、Element-UI，有 Vue 的实际开发经验
+- **Golang** : 熟练掌握 Go 基础知识、Go Runtime、pprof 性能调优
+- **计算机基础** ：熟练掌握计算机网络、数据结构与算法、操作系统；了解计算机组成原理，熟练使用 Linux，有 Linux 下项目部署的实际经验
+- **数据库**：熟练掌握 MySQL 数据库及常见优化手段（索引、SQL优化、读写分离等）；Redis 使用经验丰富，了解其底层数据结构和基本使用场景
+- **框架**：熟练掌握 Spring Cloud 全家桶、Gin 等主流开发框架
+- **搜索引擎**：熟悉 Elasticsearch 的使用及原理，掌握 Kibana 的使用
+- **分布式**：熟练掌握 RPC（Dubbo）、注册中心（Zookeeper, Euraka）、消息队列（RabbitMQ、Kafka）等中间件的使用
+- **工具**：熟练掌握 Git、Maven、Docker
+- **前端**：掌握 Vue、Element-UI 开发
 
-## 实习经历
-
-**金蝶精一（2022 年 7 月 ~ 2022 年 9 月 ）**
-
-- **职位**：数字化实施实习生
-- **实习内容**：系统学习金蝶云使用规范，深入学习供应链管理模块，以进一步理解供应链管理实现，金蝶云苍穹低代码开发。
-
-## 获奖经历
-
-* **在“全国工业工程类专业优秀课程设计”获得“良好（二等奖）”成绩**
-
-## 项目经历 
-
-### 物流网络规划
-
-* **项目描述**：2022全国工业工程课程设计——题目2-物流网络设计，为SD公司设计跨区运输策略的物流网络。
-* **责任描述**：根据办公用品销售企业SD公司的历史销售数据、物流成本和区域划分等背景资料，为公司设计出最低物流成本的混合整数规划运输模型算法，使用 IBM ILOG CPLEX对模型求解，并分析新物流网络中的利益相关者。
-
-### 个人博客
-
-* **项目描述**：个人博客，分享学习生活。博客地址：https://blog.conason.top/
-* **责任描述**：搭建个人博客，使用到的技术栈：JS、CSS、HTML、Vue等等，已将代码托管在Github仓库，同时将博客部署在vercel，实现域名解析以实现国内正常访问
-
-### 外卖系统
-
-- **项目描述** : 外卖系统(B/S)模式，分为后台管理、物品展示、购物车和管理员管理等模块，前端（Element-UI，Vue），后端（Spring Boot，MyBatis-Puls）
-- **责任描述** : 负责后端开发，项目使用Redis进行缓存热点数据，实现MySQL主从复制和读写分离，Nginx管理前端资源并反向代理Tomcat服务器同时实现负载均衡。
-
-## 校园经历
+## <img src="C:/Users/白居易/Desktop/Resume/assets/xiaoyuan.svg" style="position:relative;bottom:5px;" width="30px" height="30px"> 校园经历
 
 * **学生党务管理委员会** **资料部干事** 2019.10~2020.7
-  * 负责审核入党资料
-  * 对接系党支部，跟进党员入党动态并及时录入系统
+  * 负责审核入党资料，对接系党支部，跟进党员入党动态并及时录入系统
   * 参与“献礼70周年”视频拍摄
-
 * **院校友分会** **实践部助理/部长** 2019.10~2021.7
-  * 负责分会校庆招待、IT农场等活动后勤工作
-  * “110周年校庆”校史馆接待校友
-  * 策划并安排校庆招待、IT农场等活动的部门协作以及社团物资管理
+  * 负责策划校庆招待、IT农场等活动以及社团物资管理
+  * “110周年校庆”中负责校史馆校友接待工作
   * 获得“优秀部长”荣誉证书
 
-## 个人评价
+## <img src="C:/Users/白居易/Desktop/Resume/assets/info-circle-solid.svg" style="position:relative;bottom:7px;" width="30px" height="30px"> 个人评价
 
-+ 我工作认真负责。有耐心，讲究方法，能承受一定的压力。拥有良好的表达沟通协商组织能力，及环境适应能力。有较强的团队精神。快速融入开发团队。自学能力强，敢于面对挑战。
-+ 熟悉计算机硬件和网络，有较强的动手能力。
++ 我工作认真负责，有耐心，讲究方法，能承受一定的压力。拥有良好的表达沟通协商组织能力，及环境适应能力。
++ 熟悉计算机硬件和网络，有较强的动手能力。有较强的团队精神，能快速融入开发团队。自学能力强，敢于面对挑战。
 
-## 感谢阅读
-
-感谢您花时间阅读我的简历，期待能与您共事！
+<center>感谢您花时间阅读我的简历，期待能与您共事！<center>
