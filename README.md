@@ -19,9 +19,15 @@ My ![Visitor Count](https://profile-counter.glitch.me/conason/count.svg) visitor
 
 # About My Github
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=conason)](https://github.com/Christmas-Wong/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=conason&show_icons=true&theme=tokyonight)
+<table><tr><td valign="top" width="50%">
+    <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=conason">
+    </div>
+    </td><td valign="top" width="50%">
+    <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=conason&show_icons=true&theme=tokyonight">
+    </div>
+    </td><td valign="top" width="50%">
 
 # My Skill Set  
 
@@ -42,7 +48,6 @@ My ![Visitor Count](https://profile-counter.glitch.me/conason/count.svg) visitor
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/elasticsearch.png" alt="Elastic Search" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" />  
 </div>
-
 </td><td valign="top" width="50%">
 
 
