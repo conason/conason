@@ -25,9 +25,9 @@ My ![Visitor Count](https://profile-counter.glitch.me/conason/count.svg) visitor
     </div>
     </td><td valign="top" width="50%">
     <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=conason&show_icons=true&theme=tokyonight">
-    </div>
-    </td><td valign="top" width="50%">
+    <img src="https://github-readme-stats.vercel.app/api?username=conason&show_icons=true&theme=tokyonight">
+</div>
+</td></tr></table> 
 
 # My Skill Set  
 
